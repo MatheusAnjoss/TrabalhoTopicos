@@ -1,0 +1,14 @@
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\bin\Debug\net8.0\ProjetosBasicos.exe
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\bin\Debug\net8.0\ProjetosBasicos.deps.json
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\bin\Debug\net8.0\ProjetosBasicos.runtimeconfig.json
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\bin\Debug\net8.0\ProjetosBasicos.dll
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\bin\Debug\net8.0\ProjetosBasicos.pdb
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.AssemblyInfoInputs.cache
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.AssemblyInfo.cs
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.dll
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\refint\ProjetosBasicos.dll
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.pdb
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ProjetosBasicos.genruntimeconfig.cache
+C:\Users\KARINPEREIRADASILVA\ProjetosBasicos\obj\Debug\net8.0\ref\ProjetosBasicos.dll
