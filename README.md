@@ -1,3 +1,10 @@
+# INTEGRANTES
+- Matheus da Silva dos Anjos
+- Karin Pereira da Silva
+- Marcelo de Oliveira Cabral Sobrinho
+
+# ESTRUTURA DO PROJETO
+
 ## Program.cs
 Sobre o uso do Program.cs com menu interativo
 Esse código está sendo usado como o centro de controle do projeto. Ele funciona como um menu principal que exibe todas as opções de exercícios que foram desenvolvidos. A ideia é facilitar para o usuário (ou até para nós mesmos durante os testes) na hora de escolher qual parte do programa queremos executar. Assim, em vez de rodar cada exercício separadamente, a gente centraliza tudo num único lugar, usando um menu que aparece no console. Isso é útil tanto para organização quanto para navegação.
